@@ -24,4 +24,6 @@ html{
 
 body{
     font-family: 'NTR', sans-serif;
+    background-color: var(--navy);
+    color: var(--white);
 }
