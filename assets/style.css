@@ -39,3 +39,17 @@ body{
   .custom-toggler.navbar-toggler {
     border-color: rgb(255,102,203);
   } 
+
+.email-btn{
+    color: var(--green);
+    border-color: var(--green);
+}
+
+.email-btn:hover{
+    color: var(--green);
+    border-color: var(--green);
+}
+
+.home-content{
+    margin: 30px;
+}
