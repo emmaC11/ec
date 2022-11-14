@@ -51,12 +51,16 @@ body{
     border-color: var(--green);
 }
 
+.home{
+    margin-bottom: 100px;
+}
+
 .about{
     color: var(--green);
 }
 
 .about-section{
-    margin: 30px;
+    margin-bottom: 100px;
 }
 
 li{
