@@ -67,3 +67,6 @@ span{
     color: var(--white);
 }
 
+ul{
+    column-count: 3;
+}
