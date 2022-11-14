@@ -21,8 +21,7 @@
 body{
     font-family: 'NTR', sans-serif;
     background-color: var(--navy);
-    color: var(--white);
-  
+    color: var(--white);  
 }
 
 .nav-link{
@@ -53,6 +52,10 @@ body{
 
 .home{
     margin-bottom: 100px;
+}
+
+#name{
+    color: var(--green); 
 }
 
 .about{
